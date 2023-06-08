@@ -27,3 +27,8 @@
     <img alt="Storage & Auth | Firebase" src="https://img.shields.io/badge/-Storage%20%26%20Auth%20%7C%20Firebase-333333?style=for-the-badge&logo=Firebase">
   </a>
 </p>
+<p align="center">
+  <a aria-label="Video Calls">
+    <img alt="Video Calls | WebRTC" src="https://img.shields.io/badge/-Video%20Calls%20%7C%20WebRTC-333333?style=for-the-badge&logo=WebRTC">
+  </a>
+</p>
