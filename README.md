@@ -23,8 +23,8 @@
   <a aria-label="IDE">
     <img alt="IDE | VS Code" src="https://img.shields.io/badge/-IDE%20%7C%20VS%20Code-333333?style=for-the-badge&logo=Visual-Studio-Code">
   </a>
-  <a aria-label="Storage & Auth">
-    <img alt="Storage & Auth | Firebase" src="https://img.shields.io/badge/-Storage%20%26%20Auth%20%7C%20Firebase-333333?style=for-the-badge&logo=Firebase">
+  <a aria-label="Storage, DB & Auth">
+    <img alt="Storage, DB & Auth | Firebase" src="https://img.shields.io/badge/-Storage%2C%20DB%20%26%20Auth%20%7C%20Firebase-333333?style=for-the-badge&logo=Firebase">
   </a>
 </p>
 <p align="center">
